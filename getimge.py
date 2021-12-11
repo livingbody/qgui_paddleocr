@@ -1,16 +1,3 @@
-## AgentOCR桌面版
-
-### 项目依赖
-依赖AgentOCR、qgui
-
-### 效果图
-程序界面
-
-![](1.jpg)
-
-
-### 代码
-```
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 """
@@ -139,6 +126,3 @@ if __name__ == '__main__':
                                   github_url="https://hub.fastgit.org/livingbody/qgui_paddleocr")
     # 跑起来~
     main_gui.run()
-
-
-```
